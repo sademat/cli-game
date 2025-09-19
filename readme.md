@@ -1,3 +1,4 @@
+# cli-game
                             .__                                            .__              .__   
 ______  __ _________________|  |   ____   ______   ________ ____________  _|__|__  _______  |  |  
 \____ \|  |  \___   /\___   /  | _/ __ \ /  ___/  /  ___/  |  \_  __ \  \/ /  \  \/ /\__  \ |  |  
@@ -15,5 +16,3 @@ You appear in an unfamiliar location. There's a chest near you, but you don't ha
 
 Your journey begins in the folder 'world'.
 switzerland  turkey  ukraine north_korea
-
-
