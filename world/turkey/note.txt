@@ -1,0 +1,8 @@
+- Welcome to Turkey
+- You are on train station.
+- There are 2 travel option:
+ - Anakara
+ - Istanbul
+What do you choose?
+
+

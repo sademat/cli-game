@@ -1,0 +1,3 @@
+- Welcome to Switzerland
+- Which part of Switzerland would you like to visit? 
+- Vaud or Bern?
